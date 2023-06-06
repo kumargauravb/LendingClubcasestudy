@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> This study will help in analyzing how real business problems are solved using Exploratory Data Analysis(EDA). It will also help in understanding risk analytics in banking and financial services and understanding how data is used to minimise the risk of losing money while lending to customers.
+> This study will help in analyzing how real business problems are solved using Exploratory Data Analysis(EDA). It will also help in understanding risk analytics in banking and financial services and understanding how data is used to minimize the risk of losing money while lending to customers.
 
 
 ## Table of Contents
@@ -12,14 +12,14 @@
 
 ## General Information
 ### Project Information
-- We are working for a consumer finance company which specialises in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
+- We are working for a consumer finance company which specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
    - If the applicant is likely to repay the loan, then not approving the loan results in a loss of business to the company
-   - If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company
+   - If the applicant is not likely to repay the loan, i.e., he/she is likely to default, then approving the loan may lead to a financial loss for the company
  
 ### Project Background
 - Lending Club is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures. Borrowers can easily access lower interest rate loans through a fast online interface. 
 ### Business Problem
-- Since lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss).In this case, the customers labelled as 'charged-off' are the 'defaulters'. The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
+- Since lending loans to ‘risky’ applicants is the largest source of financial loss (called credit loss).In this case, the customers labelled as 'charged-off' are the 'defaulters'. The company wants to understand the driving factors (or driver variables) behind loan default, i.e., the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment.
 ### Dataset
 - Dataset is a .csv file containing the Loan data
 
