@@ -1,5 +1,5 @@
 # Lending Club Case Study
-> This study will help in analyzing how real business problems are solved using Exploratory Data Analysis(EDA). It will also help in understanding risk analytics in banking and financial services and understanding how data is used to minimise the risk of losing money while lending to customers.
+> This study will help in analyzing how real business problems are solved using Exploratory Data Analysis(EDA). It will also help in understanding risk analytics in banking and financial services and understanding how data is used to minimize the risk of losing money while lending to customers.
 
 
 ## Table of Contents
