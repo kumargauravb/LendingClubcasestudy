@@ -26,10 +26,41 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+1.The charged off loans have higher interest rate across all loan amount groups. So if the interest rate is high there are more chances of loan getting default.
+
+2.The Loan defaulting is increasing from A to G grade.
+
+3.As the loan amount and employment length is increasing the risk of defaulting is also increasing.
+
+4.Applicants whose loan amount is high are likely to default.
+
+5.Applicants taken loan for small business and the loan amount is between 12k to 14.5k, then the applicants are more likey to default.
+
+6.We can observe that loan amount is higher for applicants who defaulted and with annual income between 186k to 233k.
+
+7.Applicants most likely to default in the months between oct to dec mostly december, applicants defaulted mostly in the year 2011
+
+8.As the installment is increasing the chances of loan defaulting is also increasing.
+
+9.Applicants with 60 months loan term are likely to default compared to 36 months term.
+
+10.When applicants are verified and loan amount is greater than 15k then loan is likely to default.
+
+11.If the annual income is high across all interest rate groups then there less chances of loan getting default.
+
+12.Applicants with highest salary applied loans for home improvement and also they are once likely to default.
+
+13.If the applicants have high annual income and their home ownership is any then they are not likely to default.
+
+#### Driving factors:
+1. Interest rate
+2. Loan Amount
+3. Installment
+4. Grade
+5.Term
+6. Annual Income
+7. Purpose
+8. Sub Grade
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
